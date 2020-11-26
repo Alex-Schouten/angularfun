@@ -12,11 +12,12 @@
 }
 
 .bio{
-  color: #F29B30;
+  color: #F29E03;
   line-height: 1.6;
   float: left;
   max-width: 50%;
   padding-left: 30px;
+  font-weight: bold;
 }
 
 .clearfix::after {

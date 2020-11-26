@@ -1,8 +1,8 @@
 #textMain{
-  color: #F29B30;
+  color: #F29E03;
   padding: 40px;
   margin-right: 20px;
-  border: 2px solid #F29B30;
+  border: 2px solid #F29E03;
   text-align: center;
   line-height: 1.8;
   font-weight: bold;
@@ -55,7 +55,7 @@ h4 {
   color: #11261F;
   max-height: 120px;
   min-width: 120px;
-  background-color: #53A68E;
+  background-color: #0CFFE1;
   border-radius: 5px;
   border: 2px solid #11261F;
 }
@@ -63,8 +63,8 @@ h4 {
 .module:hover {
   background-color: #F29B30;
   cursor: pointer;
-  color: #F2622E;
-  border: 2px solid #F2622E;
+  color: #592202;
+  border: 2px solid #592202;
 }
 .grid-pad {
   padding: 10px 0;
