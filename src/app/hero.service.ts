@@ -8,7 +8,7 @@ import { catchError, map, tap } from 'rxjs/operators';
 @Injectable({ providedIn: 'root' })
 export class HeroService {
 
-  private heroesUrl = 'api/heroes';  // URL to web api
+  private heroesUrl = 'https://my-json-server.typicode.com/weareallamazingpeople/angularfun/heroes';  // URL to web api
 
   httpOptions = {
     headers: new HttpHeaders({ 'Content-Type': 'application/json' })
